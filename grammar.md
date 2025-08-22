@@ -338,6 +338,9 @@ Germanisch uses many affixes (prefixes and suffixes) to create new words, much l
 | un-    | negative prefix (un-)                 | unglad (unhappy)         |
 | -wards | direction adverb (-wards)             | towards, backwards       |
 
+Tp get fientive/factitive verbs from adjectives, you can use an umlaut; if it's impossible, use the suffixe **-en**. 
+
+
 <a href="#examples"><h2 id="examples">Translation Examples</h2></a>
 
 <table>
